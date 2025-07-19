@@ -44,9 +44,8 @@ I created this project to learn how virtualization works across different operat
 </p>
 <br />
 
-![3](https://github.com/user-attachments/assets/fb503633-1013-4e62-bdc9-149d77242cf9)
-![4](https://github.com/user-attachments/assets/18c4a8d0-5813-4fbb-8cdf-0719d0d56495)
-![5](https://github.com/user-attachments/assets/8319b261-e39d-47f9-ac77-c89a3a48ed68)
+<img width="1397" height="692" alt="Windows VM 1" src="https://github.com/user-attachments/assets/f7909e80-80f6-446e-b4d9-3f1043e982ae" />
+
 
 </p>
 -If you create a free account, you should have "Azure subscription 1" just like I do. If not, it will look different and thats okay. You can name the resource group whatever your heart desires; you can copy me if you want to. Hit next twice.
@@ -60,48 +59,54 @@ I created this project to learn how virtualization works across different operat
 
 <p>
 
-![6](https://github.com/user-attachments/assets/7b57014c-13f0-41e9-a44d-c2e4688f781b)
-![7](https://github.com/user-attachments/assets/726337ec-b3bd-4a50-b641-4f008e0b6cab)
+<img width="1525" height="685" alt="Windows VM 2" src="https://github.com/user-attachments/assets/cf944d3c-6dfb-429b-85db-9241e0d84886" />
+
+
 <p>
--Now from the resource groups page you can search up virtual machines, click on virtual machines.
+- Click Home tab and you be bough to the main page. From there type virtual machines in the search bar.
 </p>
--Click on create > Azure virtual machine.
+-Click on create > virtual machine.
 <br />
 
 <p>
 
-![8](https://github.com/user-attachments/assets/8ecde3dc-2349-422c-9576-7cbd1d61a4fb)
-![9](https://github.com/user-attachments/assets/947e190d-9345-4b8a-8f48-dccca99fa9d1)
+<img width="1233" height="699" alt="Windows VM 3" src="https://github.com/user-attachments/assets/6af67b23-0191-47c7-9184-a926bd052e86" />
+<img width="1399" height="746" alt="Windows VM 4" src="https://github.com/user-attachments/assets/92edf88f-cf6a-4e15-b72f-b316130c40b2" />
 
-</p>
 <p>
-- Here, you make sure the resource group is the same one you just made. Next, you name the Virtual machine "windows-vm".Here you make sure the Region is the same as your resource group, in this case it was (US East Us-2). For the image, make sure you select "Windows 10 Pro, version 22H2". This is a Windows VM, not a Linux.
+- Here, we want to ensure the Resource Group is the same one we just created "VM-Project". Next, you will give the Virtual Machine a name:"WindowsVM". Make sure that the same Region is picked, reminder - we selected (US East Us-2) as our Region when we created the Resource Group previously. For the line that says "Image" scroll down and select "Windows 11 Pro, version 22H2 (or Windows 10 Pro, version 22H2 if you do not have W11)". This is going to be our Windows virtual machine.
 </p>
 - Now for the size, make sure you pick something that has at least 2VPUs, otherwise it will be rather slow.
 </p>
-- Next, create a Username and a Password, something simple that you can remember. Make sure to write this down or bring up a notepad from the Start Menu and jot that info down. Make sure you check the box under Licensing and then click Next twice until you get to Networking.
+- Next, create a Username and a Password, something simple that you can remember. Make sure to write this down or bring up a notepad from the Start Menu and jot that info down. Make sure to check the box under 'Licensing' at the bottom and then click Next to skip over Disk section so you can get to to Networking.
 <br />
 
 <p>
 
-![10](https://github.com/user-attachments/assets/e6d429ac-036f-44eb-ab54-dc9df9ec5a4e)
-![11](https://github.com/user-attachments/assets/d4429909-3a4d-4a24-9517-4bcf78e245bc)
+<img width="1139" height="773" alt="Windows VM 5" src="https://github.com/user-attachments/assets/c71990bf-7558-4f43-a50a-223526ebe0ec" />
+
+
 </p>
 <p>
--Now in Networking, we need to create a new Virtual network, click Create new, and type VM1-Vnet.
+-Now in Networking, we need to create a new Virtual network, click Create new, and type WindowsVM1-Vnet.
 </p>
-- You can now see the new name for our Virtual Network, click Review + create.
+- You can now see the new name for our Virtual Network so we are ready to click Review + create at the very bottom.
 <br />
 
 <p>
 
-![12](https://github.com/user-attachments/assets/cbd92ebe-ed80-449b-b64a-919f9ae994dc)
-![13](https://github.com/user-attachments/assets/404bffd6-02a1-4392-a9f9-0af281b643ed)
+<img width="1342" height="746" alt="Windows VM 6" src="https://github.com/user-attachments/assets/09d4cec5-d1bf-4420-85ff-afd39e753bbc" />
+
 </p>
 <p>
-- Now if all went well, the next page should say "Validation passed." Click create.
+- If all went well, the next page should say "Validation passed." Once you see it go ahead and click on Create.
+  
 </p>
-- Finally, the next page should say "Deployment is in progress". That shouldn't take long. When it's done, it should say " Your deployment is complete". You did it! You created your first virtual machine, Now you can explore, test software, run operating systems, practice IT tasks, or safely experiment without affecting your main system.
+
+<img width="1466" height="705" alt="Windows VM 8" src="https://github.com/user-attachments/assets/5f90b873-793d-482a-9a54-e9ae368fe790" />
+
+
+- The next page should say "Deployment is in progress" and start loading, followed immediately by "Your deployment is complete" once the loading is complete. Guess what!! You just set up your first virtual machine! Congrats because now you'll be able to explore, test software, run operating systems, practice IT tasks, even safely experiment without affecting your main system!
 <br />
 <h2>How to create a Linux VM</h2>
 <p>
