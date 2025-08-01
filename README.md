@@ -4,7 +4,7 @@
 </p>
 
 <h1>Cross-Platform Virtual Machine Setup: Windows & Linux</h1>
-I created this project to learn how virtualization works across different operating systems. Follow along as I build virtual machines on both Windows and Linux and break down each step.<br />
+In this project we will demonstrate the setup and configuration of Virtual Machines running both Windows and Linux operating systems (OS). It explores virtualization concepts while showcasing cross-platform environment creation for development and network testing.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -15,14 +15,16 @@ I created this project to learn how virtualization works across different operat
 <h2>Operating Systems Used </h2>
 
 - Ubuntu
-- Windows 10 Pro
+- Windows 11 (24H2)
 
-<h2>Windows & Linux VM Creation: Step-by-Step Project</h2>
+<h2>STEPS INCLUDED</h2>
 
-- Create a resource group
-- Deployed a Windows VM
-- Deployed a Linux VM
-- Verified that both VMs were running
+- STEP 1 - Create a Resource Group
+- STEP 2 - Create a virtual machine for Windows
+- STEP 3 - Deploy the Windows VM
+- STEP 4 - Create a virtual machine for Linux
+- STEP 5 - Deploy the Linux VM
+- STEP 6 - Verify that both VMs are running
 
 
 
