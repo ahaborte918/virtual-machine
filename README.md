@@ -48,9 +48,11 @@ You can click on the Resource Group from the home screen or you can type Resourc
 You have the option to give your subscription a name (I went with my first name "Aaron") or it will just generically show up as "Azure Subscription 1". Go ahead and give the Resource Group a name. We are covering virtual machines here so "VM-Project" seemed like an relatable name to me. Last up select a Region. We can now click Review + create at the bottom, followed by clicking Create (at the bottom) on the very next screen.
 </p>
 We are finished with creating our Resource Group. Next up: time to create our Virtual Machines!
-<br />
+</p>
 
-<img width="1397" height="692" alt="Windows VM 1" src="https://github.com/user-attachments/assets/f7909e80-80f6-446e-b4d9-3f1043e982ae" />
+<img width="469" height="397" alt="Resource Group SS3" src="https://github.com/user-attachments/assets/0b1f7dfe-2d78-4d87-b677-4b23f117776a" />
+<img width="786" height="367" alt="Resource Group SS4" src="https://github.com/user-attachments/assets/bff952f3-81fc-4281-875b-7f6a61ed749c" />
+
 
 
 </p>
