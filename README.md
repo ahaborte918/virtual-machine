@@ -28,21 +28,23 @@ In this project we will demonstrate the setup and configuration of Virtual Machi
 
 
 
-<h3>Step-by-Step Resource Group Setup</h3>
+<h2>Step-by-Step Resource Group Setup</h2>
 
 <p>
+The very first thing we have to do is sign-up for a free Microsoft Azure account. When your account is created you are awarded a $200 credit that expires in 30 days. 
+After an account has been made we can began our project by creating a Resource Group. Resource Groups provide organization, security, cost management, and simplified operations for Azure VMs and other resources.
+</p>
+You can click on the Resource Group from the home screen or you can type Resource Group in the search bar at the top. Click on Create and let's get started.
+</p>
 
-![1](https://github.com/user-attachments/assets/7ed7e175-cf03-47f4-9630-a46c1c941c9e)
-![2](https://github.com/user-attachments/assets/8704c8ed-e944-4562-9cb6-5bd241d344c5)
+<img width="785" height="413" alt="Resource Group SS1" src="https://github.com/user-attachments/assets/2d54b42e-bb27-4ae6-8d29-cfe8a714dbe3" />
+<img width="809" height="395" alt="Resource Group SS2" src="https://github.com/user-attachments/assets/943c5f69-2c12-4331-af47-71643f92e697" />
+
 </p>
 <p>
-1.Before we  create this VM, make a free Microsoft Azure account, and you get 200 credits for 30 days. Trust me it'll last you long as long as you dont forget to stop your Virtual Machine.
+
 </p>
--Ok now that you have your account, we need to make a resource group. Resource groups provide organization, security, cost management, and simplified operations for Azure VMs and other resources.
-</p>
-2.You can click the resource group from the home screen, or you can type resource group in the search bar at the top.
-</p>
-3.Now here just click create.
+You can click on the Resource Group from the home screen or you can type Resource Group in the search bar at the top. Click on Create and let's get started.
 </p>
 <br />
 
