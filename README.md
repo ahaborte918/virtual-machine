@@ -50,8 +50,9 @@ You have the option to give your subscription a name (I went with my first name 
 We are finished with creating our Resource Group. Next up: time to create our Virtual Machines!
 </p>
 
-<img width="469" height="397" alt="Resource Group SS3" src="https://github.com/user-attachments/assets/0b1f7dfe-2d78-4d87-b677-4b23f117776a" />
-<img width="786" height="367" alt="Resource Group SS4" src="https://github.com/user-attachments/assets/bff952f3-81fc-4281-875b-7f6a61ed749c" />
+<img width="573" height="400" alt="Resource Group SS3" src="https://github.com/user-attachments/assets/99e94d1e-42c0-48b7-96bb-2b53b2bfc5f5" />
+
+<img width="784" height="389" alt="Resource Group SS4" src="https://github.com/user-attachments/assets/0090969c-a176-4a62-af06-4f5d08edbe53" />
 
 
 
