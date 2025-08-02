@@ -66,27 +66,14 @@ We are finished with creating our Resource Group. Next up: time to create our Vi
 </p>
 <h2>Step-by-Step Windows VM setup</h2>
 </p>
-Click on the Home tab to return to the main page. Type virtual machines in the search bar at the top then underneath 'Services' select it. When the VM page comes up we are going to select Create then click on Virtual Machines.
+Click on the Home tab to return to the main page. Type virtual machines in the search bar at the top then underneath 'Services' select virtual machines. When the Virtual Machines page comes up we are going to select Create then click on Virtual Machines.
+</p>
 
-<br />
+<img width="860" height="374" alt="WVM 1" src="https://github.com/user-attachments/assets/77b72606-9cdf-4d64-899d-309e2b174516" />
 
-
-
-<p>
-
-<img width="1525" height="685" alt="Windows VM 2" src="https://github.com/user-attachments/assets/cf944d3c-6dfb-429b-85db-9241e0d84886" />
-
-
-<p>
 
 </p>
 
-
-<p
-<img width="1233" height="699" alt="Windows VM 3" src="https://github.com/user-attachments/assets/6af67b23-0191-47c7-9184-a926bd052e86" />
-<img width="1399" height="746" alt="Windows VM 4" src="https://github.com/user-attachments/assets/92edf88f-cf6a-4e15-b72f-b316130c40b2" />
-
-<p>
 Here your Subscription name should already be pre-selected. Next we want to ensure the Resource Group is the same previously created "VM-Project". Give the Virtual Machine a name (in the example we went with ("WindowsVM"). Make sure that the same Region is picked - (US) East 2 as when the Resource Group was previously created. For Availiabilty Zone* scroll and select Zone 3. For the Image* click, scroll down, and select "Windows 11 Pro version 24H2 or whichever version you are using. For the Size* make sure you pick something with at least 2VPUs, otherwise it will be rather slow. NOTE: for Username* & Password* create your own credentials. Make sure it's something easy to remember or jot it down somewhere if it's ever needed as a reference. Check the box under 'Licensing' at the bottom and click Next to skip over 'Disk' section so you can get to to 'Networking'.
 <br />
 
