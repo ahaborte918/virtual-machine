@@ -39,18 +39,21 @@ You can click on the Resource Group from the home screen or you can type Resourc
 
 <img width="785" height="413" alt="Resource Group SS1" src="https://github.com/user-attachments/assets/2d54b42e-bb27-4ae6-8d29-cfe8a714dbe3" />
 <img width="809" height="395" alt="Resource Group SS2" src="https://github.com/user-attachments/assets/943c5f69-2c12-4331-af47-71643f92e697" />
-
 </p>
 <p>
 
 
 </p>
-You have the option to give your subscription a name (I went with my first name "Aaron") or it will just generically show up as "Azure Subscription 1". Go ahead and give the Resource Group a name. We are covering virtual machines here so "VM-Project" seemed like an relatable name to me. Last up select a Region. We can now click Review + create at the bottom, followed by clicking Create (at the bottom) on the very next screen.
-</p>
-We are finished with creating our Resource Group. Next up: time to create our Virtual Machines!
+Go ahead and give the subscription a name (I went with my first name "Aaron") or it will just generically show up as "Azure Subscription 1". Next, we will assign a name for our Resource Group. "VM-Project" seemed like an approriate title since this we are covering virtual machines here. Last thing to do is select a Region. We can now click Review + create at the bottom, followed by clicking Create (at the bottom) on the very next screen.
 </p>
 
+
+</p>
 <img width="573" height="400" alt="Resource Group SS3" src="https://github.com/user-attachments/assets/99e94d1e-42c0-48b7-96bb-2b53b2bfc5f5" />
+</p>
+
+
+We are finished with creating our Resource Group. Next up: time to create our Virtual Machines!
 
 <img width="784" height="389" alt="Resource Group SS4" src="https://github.com/user-attachments/assets/0090969c-a176-4a62-af06-4f5d08edbe53" />
 
