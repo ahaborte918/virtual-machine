@@ -109,9 +109,16 @@ If all went well "Validation passed" should show up on the next page. Once you s
 </p>
 
 <img width="1466" height="705" alt="Windows VM 8" src="https://github.com/user-attachments/assets/5f90b873-793d-482a-9a54-e9ae368fe790" />
-
+</p>
 
 Once Create is clicked, our Virtual Machine will began loading and as it's buffering we get a "Deployment is in progress" notification on the screen. When the deployment is done a notification that says "Your deployment is complete" will appear on screen. With that being said, we just set up our first virtual machine! One down, one to go!
+
+<img width="514" height="387" alt="WVM 7" src="https://github.com/user-attachments/assets/076a99b3-0ecb-48eb-bc25-752a80558838" />
+</p>
+
+If we want to double check that our Windows virtual machine has been created, we can click on the Home button (in the top left corner) to be taken back to the main page. On the main page click the Virtual Machines icon or type it in the search bar. We are taken to the Virtual Machines page & can see our Virtual Machine does indeed exist so we can move on to creating our next one.
+
+<img width="930" height="329" alt="WVM 8" src="https://github.com/user-attachments/assets/9e57ffec-af96-4128-9f6c-34263c2e9c38" />
 
 
 
@@ -120,10 +127,13 @@ Once Create is clicked, our Virtual Machine will began loading and as it's buffe
 <h2>Step-by-Step Linux VM setup</h2>
 <p>
 
-![14](https://github.com/user-attachments/assets/4f859956-aa8c-4ab2-9635-8b886f23cfec)
+To began the process click Create.
+
+<img width="931" height="352" alt="WVM 8" src="https://github.com/user-attachments/assets/e8fd9c39-8b6b-4bd6-b176-7fde0ca342eb" />
+
 </p>
 <p>
--Now, under Virtual machines, you see we created the Windows-VM. We create our Linux VM, click Create> Azure Virtual Machine.
+If we want to double check that our Windows virtual machine has been created, we can click on the Home button (in the top left corner) to be taken back to the main page. On the main page click the Virtual Machines icon or type it in the search bar. We are taken to the virtual machine page & can see our virtual machine does indeed exists so we can move on to creating our next one.
 </p>
 <br />
 
