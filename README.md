@@ -44,7 +44,7 @@ You can click on the Resource Group from the home screen or you can type Resourc
 
 
 </p>
-Go ahead and give the subscription a name (I went with my first name "Aaron") or it will just generically show up as "Azure Subscription 1". Next, we will assign a name for our Resource Group. "VM-Project" seemed like an approriate title since this we are covering virtual machines here. Last thing to do is select a Region. We can now click Review + create at the bottom, followed by clicking Create (at the bottom) on the very next screen.
+Go ahead and give the subscription a name (I went with my first name "Aaron") or it will just generically show up as "Azure Subscription 1". Next, we will assign a name for our Resource Group - "VM-Project" seemed like an approriate title since this we are covering virtual machines here. Last thing to do is select a Region. We can now click 'Review + create' at the bottom, followed by clicking 'Create' (at the bottom) on the very next screen.
 </p>
 
 
@@ -62,12 +62,13 @@ We are finished with creating our Resource Group. Next up: time to create our Vi
 </p>
 
 </p>
-- You can now click Create
+<h2>Step-by-Step Windows VM setup</h2>
 </p>
-- Now that we have created our resource group, we can move on to creating a Windows VM.
+Click on the Home tab to return to the main page. Type virtual machines in the search bar at the top then underneath 'Services' select it. When the VM page comes up we are going to select Create then click on Virtual Machines.
+
 <br />
 
-<h3>Step-by-Step Windows VM setup</h3>
+
 
 <p>
 
@@ -75,22 +76,16 @@ We are finished with creating our Resource Group. Next up: time to create our Vi
 
 
 <p>
-- Click Home tab and you be bough to the main page. From there type virtual machines in the search bar.
+
 </p>
--Click on create > virtual machine.
-<br />
 
-<p>
 
+<p
 <img width="1233" height="699" alt="Windows VM 3" src="https://github.com/user-attachments/assets/6af67b23-0191-47c7-9184-a926bd052e86" />
 <img width="1399" height="746" alt="Windows VM 4" src="https://github.com/user-attachments/assets/92edf88f-cf6a-4e15-b72f-b316130c40b2" />
 
 <p>
-- Here, we want to ensure the Resource Group is the same one we just created "VM-Project". Next, you will give the Virtual Machine a name:"WindowsVM". Make sure that the same Region is picked, reminder - we selected (US East Us-2) as our Region when we created the Resource Group previously. For the line that says "Image" scroll down and select "Windows 11 Pro, version 22H2 (or Windows 10 Pro, version 22H2 if you do not have W11)". This is going to be our Windows virtual machine.
-</p>
-- Now for the size, make sure you pick something that has at least 2VPUs, otherwise it will be rather slow.
-</p>
-- Next, create a Username and a Password, something simple that you can remember. Make sure to write this down or bring up a notepad from the Start Menu and jot that info down. Make sure to check the box under 'Licensing' at the bottom and then click Next to skip over Disk section so you can get to to Networking.
+Here your Subscription name should already be pre-selected. Next we want to ensure the Resource Group is the same previously created "VM-Project". Give the Virtual Machine a name (in the example we went with ("WindowsVM"). Make sure that the same Region is picked - (US) East 2 as when the Resource Group was previously created. For Availiabilty Zone* scroll and select Zone 3. For the Image* click, scroll down, and select "Windows 11 Pro version 24H2 or whichever version you are using. For the Size* make sure you pick something with at least 2VPUs, otherwise it will be rather slow. NOTE: for Username* & Password* create your own credentials. Make sure it's something easy to remember or jot it down somewhere if it's ever needed as a reference. Check the box under 'Licensing' at the bottom and click Next to skip over 'Disk' section so you can get to to 'Networking'.
 <br />
 
 <p>
@@ -100,9 +95,7 @@ We are finished with creating our Resource Group. Next up: time to create our Vi
 
 </p>
 <p>
--Now in Networking, we need to create a new Virtual network, click Create new, and type WindowsVM1-Vnet.
-</p>
-- You can now see the new name for our Virtual Network so we are ready to click Review + create at the very bottom.
+On the Networking page we see the Virtual network* and Subnet* have already been pre-selected. Be certain all the other inputs are correctly checked/selected as in the example. We are now ready to click 'Review + create' towards the bottow of the page.
 <br />
 
 <p>
@@ -111,16 +104,20 @@ We are finished with creating our Resource Group. Next up: time to create our Vi
 
 </p>
 <p>
-- If all went well, the next page should say "Validation passed." Once you see it go ahead and click on Create.
+If all went well "Validation passed" should show up on the next page. Once you see that go ahead and click on 'Create' at the bpttom.
   
 </p>
 
 <img width="1466" height="705" alt="Windows VM 8" src="https://github.com/user-attachments/assets/5f90b873-793d-482a-9a54-e9ae368fe790" />
 
 
-- The next page should say "Deployment is in progress" and start loading, followed immediately by "Your deployment is complete" once the loading is complete. Guess what!! You just set up your first virtual machine! Congrats because now you'll be able to explore, test software, run operating systems, practice IT tasks, even safely experiment without affecting your main system!
+Once Create is clicked, our Virtual Machine will began loading and as it's buffering we get a "Deployment is in progress" notification on the screen. When the deployment is done a notification that says "Your deployment is complete" will appear on screen. With that being said, we just set up our first virtual machine! One down, one to go!
+
+
+
+
 <br />
-<h2>How to create a Linux VM</h2>
+<h2>Step-by-Step Linux VM setup</h2>
 <p>
 
 ![14](https://github.com/user-attachments/assets/4f859956-aa8c-4ab2-9635-8b886f23cfec)
@@ -180,4 +177,4 @@ Here we keep the same Resource group, for the Virtual machine, name it "linux-vm
 
 <h2>Final Thoughts</h2>
 </p>
-- I just finished setting up both a Windows and a Linux virtual machine, and honestly, it was a great learning experience. It helped me get more comfortable with the installation process, managing system resources, and understanding how different operating systems work. I also got a better feel for how virtualization plays a big role in IT and troubleshooting.<br />
+- Congrats because now you'll be able to explore, test software, run operating systems, practice IT tasks, even safely experiment without affecting your main system! I just finished setting up both a Windows and a Linux virtual machine, and honestly, it was a great learning experience. It helped me get more comfortable with the installation process, managing system resources, and understanding how different operating systems work. I also got a better feel for how virtualization plays a big role in IT and troubleshooting.<br />
