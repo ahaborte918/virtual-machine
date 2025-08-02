@@ -61,6 +61,8 @@ We are finished with creating our Resource Group. Next up: time to create our Vi
 
 </p>
 
+
+
 </p>
 <h2>Step-by-Step Windows VM setup</h2>
 </p>
