@@ -75,7 +75,7 @@ Click on the Home tab to return to the main page. Type virtual machines in the s
 </p>
 
 
-The Subscription name is already be pre-selected for us. Next we want to ensure the Resource Group is the same previously created "VM-Project". Give the Virtual Machine a name (in the example we went with ("WindowsVM"). Make sure that the same Region is picked - (US) East 2 as when the Resource Group was intially created. For Availiabilty Zone scroll and select Zone 3. 
+The Subscription name is already be pre-selected for us. Next we want to ensure the Resource Group is the same previously created "VM-Project". Give the Virtual Machine a name (in the example we went with "WindowsVM"). Make sure that the same Region is picked - (US) East 2 as when the Resource Group was intially created. For Availiabilty Zone uncheck Zone 1 then check the Zone 3 box. 
 <br />
 </p>
 <img width="1184" height="695" alt="WVM 2" src="https://github.com/user-attachments/assets/1fd133e3-e378-44ce-8a00-c432514122ab" />
@@ -130,12 +130,13 @@ To began the process click Create and click on Virtual Machine. You will be take
 
 
 </p>
-<p>
-If we want to double check that our Windows virtual machine has been created, we can click on the Home button (in the top left corner) to be taken back to the main page. On the main page click the Virtual Machines icon or type it in the search bar. We are taken to the virtual machine page & can see our virtual machine does indeed exists so we can move on to creating our next one.
-</p>
-<br />
+The Subscription name is already be pre-selected for us. Next we want to ensure the Resource Group is the same previously created "VM-Project". Give the Virtual Machine a name (in the example we went with "LinuxVM"). Make sure that the same Region is picked - (US) East 2 as when the Resource Group was intially created. For Availiabilty Zone uncheck Zone 1 then check the Zone 3 box.  
 
-<p>
+<img width="1416" height="699" alt="LVM2" src="https://github.com/user-attachments/assets/5cbf4a3a-586e-445f-bbf5-ba43c66bb6ba" />
+
+
+</p>
+
 
 ![15](https://github.com/user-attachments/assets/07025c52-4351-411c-9f15-84d6554b5c36)
 </p>
