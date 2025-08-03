@@ -146,25 +146,21 @@ For the Image pick Ubuntu Server 24.04 LTS. For the Size pick something with at 
 
 
 </p>
-Here we keep the same Resource group, for the Virtual machine, name it "linux-vm". Same Region. Now, for the image, choose  "Ubuntu Server 22.02", which is for Linux VM.
-</p>
+On the Networking page we see the Virtual network and Subnet have already been pre-selected. Be certain all the other inputs are correctly marked/checked as in the example. We are now ready to click 'Review + create' towards the bottom of the page.
 <br />
+</p>
+<img width="1172" height="684" alt="LVM 4" src="https://github.com/user-attachments/assets/1b46c76f-7aa0-464e-ba51-e56c98e9bedc" />
 
-<p>
-</p>
+<img width="545" height="387" alt="LVM 5" src="https://github.com/user-attachments/assets/5008812a-dbcf-41b1-9d71-de6e0d8da0bd" />
 
-![16](https://github.com/user-attachments/assets/75f289bc-0fe2-4423-b06d-10c97713a5a2)
-<p>
--Scroll down and make sure we have at least 2 vCPUs again. For the Authentication type, choose Password.
+
 </p>
-- You can use the same info as we did in the Windows VM, or choose your own.
-</p>
-- Then click next twice until you get to Networking. 
+If all went well "Validation passed" should show up on the next page. Once you see that go ahead and click on 'Create' at the bottom.
 <br />
-
 <p>
+<img width="695" height="379" alt="LVM 6" src="https://github.com/user-attachments/assets/d737905f-8d73-491e-9657-503a7d254304" />
 
-![17](https://github.com/user-attachments/assets/6e254f72-865c-4711-8374-4ca4cf7590fd)
+
 </p>
 <p>
 - Next, we will keep the same virtual network as the Windows VM. In this case, it was "VM1-Vnet". Now, click Review + create.
@@ -173,7 +169,7 @@ Here we keep the same Resource group, for the Virtual machine, name it "linux-vm
 
 <p>
   
-![18](https://github.com/user-attachments/assets/99b74b49-4dbe-4883-ac7c-3478e6cade9b)
+
 </p>
 <p>
 - The screen should look like this, which means you created your Linux VM. You did it again! We have now created both our Windows and Linux VM.
@@ -182,7 +178,7 @@ Here we keep the same Resource group, for the Virtual machine, name it "linux-vm
 
 <p>
 
-![19](https://github.com/user-attachments/assets/916186f1-51b5-4552-9f8a-050d94b9cd57)
+
 </p>
 <p>
 -Lastly, I would like to move you back to our Virtual machines. Here, we confirm that our Linux and Windows VMs have been successfully created and are running. If you are done with this lab, you can click the box next to Names and then hit delete on the top right.
