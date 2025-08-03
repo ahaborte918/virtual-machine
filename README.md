@@ -182,4 +182,4 @@ Let's double check to see if our Linux virtual machine was created. Click the Ho
 
 <h2>Final Thoughts</h2>
 </p>
-Virtual machines are an incredible resource because they allow us to run multiple operating systems on the same physical hardware for testing or learning purposes. As a result of this project, we now have a better feel for how virtualization plays a big role in IT and troubleshooting.<br />
+Virtual machines are an incredible resource because they allow us to run multiple operating systems on the same physical hardware for testing or learning purposes.This project provided hands-on experience with virtualization and operating system installation, reinforcing key concepts in system administration and cross-platform compatibility. It lays a solid foundation for more advanced networking, cybersecurity, and DevOps projects. .<br />
