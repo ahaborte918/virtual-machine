@@ -44,7 +44,7 @@ You can click on the Resource Group from the home screen or you can type Resourc
 
 
 </p>
-Go ahead and give the subscription a name (I went with my first name "Aaron") or it will just generically show up as "Azure Subscription 1". Next, we will assign a name for our Resource Group - "VM-Project" seemed like an approriate title since this we are covering virtual machines here. Last thing to do is select a Region. We can now click 'Review + create' at the bottom, followed by clicking 'Create' (at the bottom) on the very next screen.
+Go ahead and give the subscription a name (I went with my first name "Aaron") or it will just generically show up as "Azure Subscription 1". Next we will assign a name for our Resource Group (for our example we chose "VM-Project"). The last thing left to do is click on Region and select one from the list of choices (ours is US East Region 2). At the bottom click 'Review + create' to move on, followed by clicking 'Create' at the bottom on the very next screen page.
 </p>
 
 
@@ -53,7 +53,7 @@ Go ahead and give the subscription a name (I went with my first name "Aaron") or
 </p>
 
 
-We are finished with creating our Resource Group. Next up: time to create our Virtual Machines!
+The example below confirms our Resource Group was created. Next up: time to create our Virtual Machines!
 
 <img width="784" height="389" alt="Resource Group SS4" src="https://github.com/user-attachments/assets/0090969c-a176-4a62-af06-4f5d08edbe53" />
 
@@ -124,9 +124,10 @@ If we want to double check that our Windows virtual machine has been created, we
 <h2>Step-by-Step Linux VM setup</h2>
 <p>
 
-To began the process click Create.
+To began the process click Create and click on Virtual Machine. You will be taken to the 'Create a virtue machine page'.
 
-<img width="931" height="352" alt="WVM 8" src="https://github.com/user-attachments/assets/e8fd9c39-8b6b-4bd6-b176-7fde0ca342eb" />
+<img width="804" height="383" alt="LVM 1" src="https://github.com/user-attachments/assets/2894baf2-7491-4f12-a0d5-c9ba8f66f086" />
+
 
 </p>
 <p>
