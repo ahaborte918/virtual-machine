@@ -162,29 +162,23 @@ If all went well "Validation passed" should show up on the next page. Once you s
 
 
 </p>
-<p>
-- Next, we will keep the same virtual network as the Windows VM. In this case, it was "VM1-Vnet". Now, click Review + create.
-</p>
+Once Create is clicked, our Virtual Machine will began loading and as it's buffering we get a "Deployment is in progress" notification on the screen. When the deployment is done a notification that says "Your deployment is complete" will appear on screen. With that being said, we just set up our second virtual machine!
 <br />
+</p>
+<img width="1480" height="548" alt="LVM 7" src="https://github.com/user-attachments/assets/1c5199e3-d735-487c-80c9-694315336634" />
 
-<p>
-  
 
 </p>
-<p>
-- The screen should look like this, which means you created your Linux VM. You did it again! We have now created both our Windows and Linux VM.
-</p>
+Let's double check to see if our Linux virtual machine was created. Click the Home button to return to the main page. On the main page click the Virtual Machines icon or type it in the search bar. From there we are taken to the Virtual Machines page & can see our Linux VM does exist along with the Windows VM we previously created. Congrats! You have now completed this project by setting up two virtual machines!
 <br />
-
 <p>
+<img width="958" height="316" alt="LVM 8" src="https://github.com/user-attachments/assets/32b98098-d244-45f8-8917-3678d22bc898" />
 
 
 </p>
 <p>
--Lastly, I would like to move you back to our Virtual machines. Here, we confirm that our Linux and Windows VMs have been successfully created and are running. If you are done with this lab, you can click the box next to Names and then hit delete on the top right.
-</p>
-<br />
+
 
 <h2>Final Thoughts</h2>
 </p>
-- Congrats because now you'll be able to explore, test software, run operating systems, practice IT tasks, even safely experiment without affecting your main system! I just finished setting up both a Windows and a Linux virtual machine, and honestly, it was a great learning experience. It helped me get more comfortable with the installation process, managing system resources, and understanding how different operating systems work. I also got a better feel for how virtualization plays a big role in IT and troubleshooting.<br />
+Virtual machines are an incredible resource because they allow us to run multiple operating systems on the same physical hardware for testing or learning purposes. As a result of this project, we now have a better feel for how virtualization plays a big role in IT and troubleshooting.<br />
