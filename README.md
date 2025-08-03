@@ -165,7 +165,8 @@ If all went well "Validation passed" should show up on the next page. Once you s
 Once Create is clicked, our Virtual Machine will began loading and as it's buffering we get a "Deployment is in progress" notification on the screen. When the deployment is done a notification that says "Your deployment is complete" will appear on screen. With that being said, we just set up our second virtual machine!
 <br />
 </p>
-<img width="1480" height="548" alt="LVM 7" src="https://github.com/user-attachments/assets/1c5199e3-d735-487c-80c9-694315336634" />
+<img width="1480" height="548" alt="LVM 7" src="https://github.com/user-attachments/assets/1d8b76ea-9f2b-4e3f-b5aa-ad702e2c84a1" />
+
 
 
 </p>
