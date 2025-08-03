@@ -93,29 +93,30 @@ For the Image scroll down and select Windows 11 Pro version 24H2 or whichever ve
 </p>
 <p>
 On the Networking page we see the Virtual network* and Subnet* have already been pre-selected. Be certain all the other inputs are correctly checked/selected as in the example. We are now ready to click 'Review + create' towards the bottow of the page.
-<br />
 
-<p>
+<img width="1088" height="692" alt="WVM 5" src="https://github.com/user-attachments/assets/a166e8f7-35a4-4a97-9050-19667b6b260f" />
 
-<img width="1342" height="746" alt="Windows VM 6" src="https://github.com/user-attachments/assets/09d4cec5-d1bf-4420-85ff-afd39e753bbc" />
+<img width="467" height="390" alt="WVM 6" src="https://github.com/user-attachments/assets/3f993681-7f02-48f3-9b8f-925b3cb4ad8b" />
+
+
 
 </p>
-<p>
-If all went well "Validation passed" should show up on the next page. Once you see that go ahead and click on 'Create' at the bpttom.
+If all went well "Validation passed" should show up on the next page. Once you see that go ahead and click on 'Create' at the bottom.
   
-</p>
+<img width="514" height="387" alt="WVM 7" src="https://github.com/user-attachments/assets/2aa3eb56-7123-4fe3-b3aa-1eb359d01ad2" />
 
-<img width="1466" height="705" alt="Windows VM 8" src="https://github.com/user-attachments/assets/5f90b873-793d-482a-9a54-e9ae368fe790" />
-</p>
 
+</p>
 Once Create is clicked, our Virtual Machine will began loading and as it's buffering we get a "Deployment is in progress" notification on the screen. When the deployment is done a notification that says "Your deployment is complete" will appear on screen. With that being said, we just set up our first virtual machine! One down, one to go!
 
-<img width="514" height="387" alt="WVM 7" src="https://github.com/user-attachments/assets/076a99b3-0ecb-48eb-bc25-752a80558838" />
+<img width="1453" height="532" alt="WVM 8" src="https://github.com/user-attachments/assets/499f5cfa-924b-489b-9f23-1ba329b92c65" />
+
+
 </p>
+If we want to double check that our Windows virtual machine has been created, we can click on the Home button to be taken back to the main page. On the main page click the Virtual Machines icon or type it in the search bar. We are taken to the Virtual Machines page & can see our Virtual Machine does indeed exist so now we can move on to creating our next one.
 
-If we want to double check that our Windows virtual machine has been created, we can click on the Home button (in the top left corner) to be taken back to the main page. On the main page click the Virtual Machines icon or type it in the search bar. We are taken to the Virtual Machines page & can see our Virtual Machine does indeed exist so we can move on to creating our next one.
+<img <img width="930" height="329" alt="WVM 9" src="https://github.com/user-attachments/assets/1c63add5-3411-4e61-a6ec-9b4e5ac01ba4" />
 
-<img width="930" height="329" alt="WVM 8" src="https://github.com/user-attachments/assets/9e57ffec-af96-4128-9f6c-34263c2e9c38" />
 
 
 
@@ -138,10 +139,7 @@ The Subscription name is already be pre-selected for us. Next we want to ensure 
 </p>
 For the Image pick Ubuntu Server 24.04 LTS. For the Size pick something with at least 2VPUs and don't worry because we are going to delete everything once our project has concluded. For the Username & Password decide on your own set credentials, but do not forget to write them down somewhere if it's not easy to remember. At the bottom click Next to skip over 'Disk' section so you can get to 'Networking'.
 
-
 <img width="424" height="386" alt="LVM 3" src="https://github.com/user-attachments/assets/cb095440-edb5-46c3-bdd3-3933450eb38d" />
-
-
 
 
 </p>
