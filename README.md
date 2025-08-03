@@ -74,12 +74,20 @@ Click on the Home tab to return to the main page. Type virtual machines in the s
 
 </p>
 
-Here your Subscription name should already be pre-selected. Next we want to ensure the Resource Group is the same previously created "VM-Project". Give the Virtual Machine a name (in the example we went with ("WindowsVM"). Make sure that the same Region is picked - (US) East 2 as when the Resource Group was previously created. For Availiabilty Zone* scroll and select Zone 3. For the Image* click, scroll down, and select "Windows 11 Pro version 24H2 or whichever version you are using. For the Size* make sure you pick something with at least 2VPUs, otherwise it will be rather slow. NOTE: for Username* & Password* create your own credentials. Make sure it's something easy to remember or jot it down somewhere if it's ever needed as a reference. Check the box under 'Licensing' at the bottom and click Next to skip over 'Disk' section so you can get to to 'Networking'.
+
+Here your Subscription name should already be pre-selected. Next we want to ensure the Resource Group is the same previously created "VM-Project". Give the Virtual Machine a name (in the example we went with ("WindowsVM"). Make sure that the same Region is picked - (US) East 2 as when the Resource Group was previously created. For Availiabilty Zone* scroll and select Zone 3. 
 <br />
+</p>
+<img width="1184" height="695" alt="WVM 2" src="https://github.com/user-attachments/assets/1fd133e3-e378-44ce-8a00-c432514122ab" />
 
-<p>
 
-<img width="1139" height="773" alt="Windows VM 5" src="https://github.com/user-attachments/assets/c71990bf-7558-4f43-a50a-223526ebe0ec" />
+</p>
+For the Image* click, scroll down, and select "Windows 11 Pro version 24H2 or whichever version you are using. For the Size* make sure you pick something with at least 2VPUs, otherwise it will be rather slow. NOTE: for Username* & Password* create your own credentials. Make sure it's something easy to remember or jot it down somewhere if it's ever needed as a reference. Check the box under 'Licensing' at the bottom and click Next to skip over 'Disk' section so you can get to to 'Networking'.
+<br />
+</p>
+<img width="1289" height="694" alt="WVM 3" src="https://github.com/user-attachments/assets/5c2c3c52-afb3-455a-bf73-558db5c14aab" />
+
+<img width="478" height="390" alt="WVM 4" src="https://github.com/user-attachments/assets/058d77ef-b7a7-4248-b3bf-ecbbaa570441" />
 
 
 </p>
