@@ -14,7 +14,7 @@ In this project we will demonstrate the setup and configuration of Virtual Machi
 
 <h2>Operating Systems Used </h2>
 
-- Ubuntu
+- Ubuntu (Linux)
 - Windows 11 (24H2)
 
 <h2>STEPS INCLUDED</h2>
@@ -91,7 +91,7 @@ For the Image scroll down and select Windows 11 Pro version 24H2 or whichever ve
 
 
 </p>
-On the Networking page we see the Virtual network and Subnet have already been pre-selected. Be certain all the other inputs are correctly checked/selected as in the example. We are now ready to click 'Review + create' towards the bottow of the page.
+On the Networking page we see the Virtual network and Subnet have already been pre-selected. Be certain all the other inputs are correctly checked/selected as in the example. We are now ready to click 'Review + create' towards the bottom of the page.
 <br />
 </p>
 <img width="1088" height="692" alt="WVM 5" src="https://github.com/user-attachments/assets/a166e8f7-35a4-4a97-9050-19667b6b260f" />
