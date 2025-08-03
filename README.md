@@ -82,7 +82,7 @@ The Subscription name is already be pre-selected for us. Next we want to ensure 
 
 
 </p>
-For the Image scroll down and select Windows 11 Pro version 24H2 or whichever version you are using. For the Size pick something with at least 2VPUs and don't worry because we are going to delete everything once our project has concluded. For the Username & Password decide on your own set credentials, but do not forget to jot it down if it's not something easy to remember. Check the box under 'Licensing' at the bottom and click Next to skip over 'Disk' section so you can get to to 'Networking'.
+For the Image scroll down and select Windows 11 Pro version 24H2 or whichever version you are using. For the Size pick something with at least 2VPUs and don't worry because we are going to delete everything once our project has concluded. For the Username & Password decide on your own set credentials, but do not forget to write them down if it's not easy to remember. Check the box under 'Licensing' at the bottom and click Next to skip over 'Disk' section so you can get to 'Networking'.
 <br />
 </p>
 <img width="1289" height="694" alt="WVM 3" src="https://github.com/user-attachments/assets/5c2c3c52-afb3-455a-bf73-558db5c14aab" />
@@ -136,11 +136,14 @@ The Subscription name is already be pre-selected for us. Next we want to ensure 
 
 
 </p>
+For the Image scroll down and select Ubuntu Server 24.04 LTS. For the Size pick something with at least 2VPUs and don't worry because we are going to delete everything once our project has concluded. For the Username & Password decide on your own set credentials, but do not forget to write them down somewhere if it's not easy to remember. At the bottom click Next to skip over 'Disk' section so you can get to 'Networking'.
+
+<img width="424" height="386" alt="LVM 3" src="https://github.com/user-attachments/assets/cb095440-edb5-46c3-bdd3-3933450eb38d" />
 
 
-![15](https://github.com/user-attachments/assets/07025c52-4351-411c-9f15-84d6554b5c36)
+
+
 </p>
-<p>
 Here we keep the same Resource group, for the Virtual machine, name it "linux-vm". Same Region. Now, for the image, choose  "Ubuntu Server 22.02", which is for Linux VM.
 </p>
 <br />
