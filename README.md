@@ -91,9 +91,9 @@ For the Image scroll down and select Windows 11 Pro version 24H2 or whichever ve
 
 
 </p>
-<p>
-On the Networking page we see the Virtual network* and Subnet* have already been pre-selected. Be certain all the other inputs are correctly checked/selected as in the example. We are now ready to click 'Review + create' towards the bottow of the page.
-
+On the Networking page we see the Virtual network and Subnet have already been pre-selected. Be certain all the other inputs are correctly checked/selected as in the example. We are now ready to click 'Review + create' towards the bottow of the page.
+<br />
+</p>
 <img width="1088" height="692" alt="WVM 5" src="https://github.com/user-attachments/assets/a166e8f7-35a4-4a97-9050-19667b6b260f" />
 
 <img width="467" height="390" alt="WVM 6" src="https://github.com/user-attachments/assets/3f993681-7f02-48f3-9b8f-925b3cb4ad8b" />
@@ -102,19 +102,22 @@ On the Networking page we see the Virtual network* and Subnet* have already been
 
 </p>
 If all went well "Validation passed" should show up on the next page. Once you see that go ahead and click on 'Create' at the bottom.
-  
+<br />
+</p>
 <img width="514" height="387" alt="WVM 7" src="https://github.com/user-attachments/assets/2aa3eb56-7123-4fe3-b3aa-1eb359d01ad2" />
 
 
 </p>
 Once Create is clicked, our Virtual Machine will began loading and as it's buffering we get a "Deployment is in progress" notification on the screen. When the deployment is done a notification that says "Your deployment is complete" will appear on screen. With that being said, we just set up our first virtual machine! One down, one to go!
-
+<br />
+</p>
 <img width="1453" height="532" alt="WVM 8" src="https://github.com/user-attachments/assets/499f5cfa-924b-489b-9f23-1ba329b92c65" />
 
 
 </p>
 If we want to double check that our Windows virtual machine has been created, we can click on the Home button to be taken back to the main page. On the main page click the Virtual Machines icon or type it in the search bar. We are taken to the Virtual Machines page & can see our Virtual Machine does indeed exist so now we can move on to creating our next one.
-
+<br />
+</p>
 <img <img width="930" height="329" alt="WVM 9" src="https://github.com/user-attachments/assets/1c63add5-3411-4e61-a6ec-9b4e5ac01ba4" />
 
 
