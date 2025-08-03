@@ -136,7 +136,8 @@ The Subscription name is already be pre-selected for us. Next we want to ensure 
 
 
 </p>
-For the Image scroll down and select Ubuntu Server 24.04 LTS. For the Size pick something with at least 2VPUs and don't worry because we are going to delete everything once our project has concluded. For the Username & Password decide on your own set credentials, but do not forget to write them down somewhere if it's not easy to remember. At the bottom click Next to skip over 'Disk' section so you can get to 'Networking'.
+For the Image pick Ubuntu Server 24.04 LTS. For the Size pick something with at least 2VPUs and don't worry because we are going to delete everything once our project has concluded. For the Username & Password decide on your own set credentials, but do not forget to write them down somewhere if it's not easy to remember. At the bottom click Next to skip over 'Disk' section so you can get to 'Networking'.
+
 
 <img width="424" height="386" alt="LVM 3" src="https://github.com/user-attachments/assets/cb095440-edb5-46c3-bdd3-3933450eb38d" />
 
