@@ -26,7 +26,7 @@ In this project we will demonstrate the setup and configuration of Virtual Machi
 - STEP 5 - Create a virtual machine for Linux
 - STEP 6 - Deploy the Linux VM
 - STEP 7 - Verify the Linux VM is running
-- STEP 8 - Verrify both our VMs are running
+- STEP 8 - Verify both our VMs are running
 
 
 
