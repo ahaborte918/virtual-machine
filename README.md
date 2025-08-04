@@ -22,9 +22,11 @@ In this project we will demonstrate the setup and configuration of Virtual Machi
 - STEP 1 - Create a Resource Group
 - STEP 2 - Create a virtual machine for Windows
 - STEP 3 - Deploy the Windows VM
-- STEP 4 - Create a virtual machine for Linux
-- STEP 5 - Deploy the Linux VM
-- STEP 6 - Verify that both VMs are running
+- STEP 4 - Verify the Windows VM is running
+- STEP 5 - Create a virtual machine for Linux
+- STEP 6 - Deploy the Linux VM
+- STEP 7 - Verify the Linux VM is running
+- STEP 8 - Verrify both our VMs are running
 
 
 
