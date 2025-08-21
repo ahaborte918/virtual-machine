@@ -30,7 +30,7 @@ In this project we will demonstrate the setup and configuration of Virtual Machi
 
 
 
-<h2>Resource Group Setup</h2>
+<h2>Installation Steps</h2>
 
 <p>
 The very first thing we have to do is sign-up for a free Microsoft Azure account. When your account is created you are awarded a $200 credit that expires in 30 days. 
