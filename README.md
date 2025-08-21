@@ -17,7 +17,7 @@ In this project we will demonstrate the setup and configuration of Virtual Machi
 - Ubuntu (Linux)
 - Windows 11 (24H2)
 
-<h2>STEPS INCLUDED</h2>
+<h2>Steps Included</h2>
 
 - STEP 1 - Create a Resource Group
 - STEP 2 - Create a virtual machine for Windows
